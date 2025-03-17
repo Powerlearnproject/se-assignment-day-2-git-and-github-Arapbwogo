@@ -83,6 +83,7 @@ A well-written and organized README reflects positively on the project and its d
 Attracting Talent:
 A polished README can attract more talented developers and collaborators who are impressed by the project's organization and documentation. 
 
+STEPS.
 1. Project overview.
 2. Installation.
 3. Usage.
