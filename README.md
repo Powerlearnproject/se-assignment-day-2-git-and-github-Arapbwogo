@@ -144,15 +144,25 @@ Git combines the changes from the specified branch into the current branch.
  Pull request allows others to review your changes before they are merged.
  Pull requests facilitate code review collaboration by providing a structured platform for developers to propose changes, receive feedback, and discuss improvements before merging code into the main codebase, ultimately improving code quality and promoting teamwork. 
 1. Creating the Pull Request:
+
 i). Navigate to the repository: Go to the repository's main page on the platform (e.g., GitHub).
+
 ii). Initiate a Pull Request: Look for a button or link to create a pull request (often labeled "Compare & pull request").
+
 iii). Select Branches: Specify the base branch (where you want to merge into) and the compare branch (your feature branch).
+
 iv). Add Details: Provide a title and description for the pull request, explaining the purpose of your changes.
+
 v). Create the Pull Request: Click "Create Pull Request" to submit your request. 
+
 2. Review, Discussion, and Merge:
+
 i). Review and Discussion: Other developers will review your code, provide feedback, and discuss the changes. 
+
 ii). Address Feedback: Address any comments or issues raised during the review process. 
+
 iii). Merge the Pull Request: Once the changes are approved, the repository owner or maintainer can merge the pull request into the main branch. 
+
 iv). Delete the Branch (Optional): After merging, you can delete the branch to keep the repository clean. 
 
 
